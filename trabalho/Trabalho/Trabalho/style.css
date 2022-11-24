@@ -1,0 +1,20 @@
+
+h1{
+    color: white;
+    font-size: 35px;
+}
+
+h2{
+    color: blue;
+    font-size: 35px;
+}
+
+p{
+    color: white;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+body{
+    background-color: rgb(14, 13, 13);
+}
